@@ -11,6 +11,7 @@ namespace Proyecto3
         static void Main(string[] args)
         {
             Console.WriteLine("Hola Mundo");
+            Console.WriteLine("Hola Mundo 2");
             Console.ReadKey();
         }
     }
