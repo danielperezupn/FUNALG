@@ -12,7 +12,6 @@ namespace Proyecto3
         {
             Console.WriteLine("Hola Mundo");
             Console.WriteLine("Hola Mundo 2");
-            Console.WriteLine("Hola Mundo 3");
             Console.ReadKey();
         }
     }
